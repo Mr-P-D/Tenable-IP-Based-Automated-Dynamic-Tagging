@@ -1,0 +1,6 @@
+Category,Value,IP Range,Network
+CustomerName Subnets,DMZ,10.1.2.3/24,Default or Custom depending on your requirement
+CustomerName Subnets,Corp Wifi,10.1.2.4/24,Default or Custom depending on your requirement
+CustomerName Subnets,Corp Servers,10.1.2.5/24,Default or Custom depending on your requirement
+CustomerName Subnets,Management VLAN,10.1.2.6/24,Default or Custom depending on your requirement
+CustomerName Subnets,Linux Servers,10.1.2.7/24,Default or Custom depending on your requirement
