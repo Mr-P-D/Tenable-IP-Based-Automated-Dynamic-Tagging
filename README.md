@@ -17,6 +17,6 @@
 Error: [400: POST] https://cloud.tenable.com/tags/values body=b'{"errors":[{"property":"value","rule":"duplicate","message":"Duplicate tag value \'Corp WiFi\' cannot be created."}],"error":"Duplicate tag value \'Corp WiFi\' cannot be created."}'
 
 <br> **Error Due to Incorrect IPs:**
-<br> Processing: Wateridge Subnets -> WR_Secured
+<br> Processing: CustomerName Subnets -> Linux Subnets
 filter_value has value of 10.2.3/24.  Does not match pattern ^(\s*((?=\d+\.\d+\.\d+\.\d+(?:\/|-|\s*,|$))(?:(?:25[0-5]|2[0-4]\d|1\d\d|[1-9]?\d)\.?){4})(?:(?:\/(?:3[0-2]|[12]+\d|[1-9]))|((?:-(?=\d+\.\d+\.\d+\.\d+)(?:(?:25[0-5]|2[0-4]\d|1\d\d|[1-9]?\d)\.?){4})|(?:\s*,(?:\s*)))?)+)+$
 <br> Error: filter_value has value of 10.2.3/24.  Does not match pattern ^(\s*((?=\d+\.\d+\.\d+\.\d+(?:\/|-|\s*,|$))(?:(?:25[0-5]|2[0-4]\d|1\d\d|[1-9]?\d)\.?){4})(?:(?:\/(?:3[0-2]|[12]+\d|[1-9]))|((?:-(?=\d+\.\d+\.\d+\.\d+)(?:(?:25[0-5]|2[0-4]\d|1\d\d|[1-9]?\d)\.?){4})|(?:\s*,(?:\s*)))?)+)+$
