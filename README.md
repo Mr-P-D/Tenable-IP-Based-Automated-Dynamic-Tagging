@@ -6,8 +6,8 @@
 1) Add Secret Key and Access Key in the Python Script
 2) Update the sample-tags.csv based on your requirement.
 3) Execute the Script to create the Tags.
-<br>
-<br> **Successful Output:**
+
+**Successful Output:**
 <br> Processing: CustomerName Subnets -> DMZ
 <br> Tag created
 
